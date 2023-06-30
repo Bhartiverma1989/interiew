@@ -24,6 +24,8 @@ public class PushClass {
 		//pull the code
 
 		// open eclipse and click on team-->pull(2d one)
+		
+		//click on finish and then close
 	}
 
 }
