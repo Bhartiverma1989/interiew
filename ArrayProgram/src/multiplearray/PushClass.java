@@ -16,6 +16,8 @@ public class PushClass {
 		//step 5 : add cpmmit
 		
 		//step 6: click on push head
+
+		//step 7: go to git hub and check the codes are available or not
 		
 		System.out.println("These are the steps for push the code");
 	}
