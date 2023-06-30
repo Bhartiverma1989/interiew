@@ -20,6 +20,10 @@ public class PushClass {
 		//step 7: go to git hub and check the codes are available or not
 		
 		System.out.println("These are the steps for push the code");
+
+		//pull the code
+
+		// open eclipse and click on team-->pull(2d one)
 	}
 
 }
