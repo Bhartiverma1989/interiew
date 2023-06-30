@@ -17,6 +17,8 @@ public class PushClass {
 		
 		//step 6: click on push head
 
+		//click on close-->push-->close
+
 		//step 7: go to git hub and check the codes are available or not
 		
 		System.out.println("These are the steps for push the code");
